@@ -1,6 +1,7 @@
 # Joke-Clustering-Analysis
 ## Unsupervised Learning - Clustering based on User Ratings
 The goal of this project is to identify whether there’s diverse group with contrasting likes and dislikes of various jokes.  
+
 We analyzed Jester Jokes Dataset (containing over a million rows and rating for each row) to explore the characteristics that people share in jokes’ taste, based on how they rate them.
 
 ## Dataset
